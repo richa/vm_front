@@ -1,0 +1,1 @@
+export const ALLOWED_DEPOSIT_VALUES = [100,50,20,10,5]
